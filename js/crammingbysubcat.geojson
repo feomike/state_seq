@@ -1,0 +1,319 @@
+var crammingSub={
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "count": "14", "complai_03": "By Carrier", "dispute": 163.680000, "refund": 147.000000, "numcarrier": "4", "stateabbr": "AL", "statename": "Alabama" }, "geometry": { "type": "Point", "coordinates": [ -86.844521, 32.756880 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "count": "10", "complai_03": "By Third Party", "dispute": 570.180000, "refund": 0.000000, "numcarrier": "4", "stateabbr": "AL", "statename": "Alabama" }, "geometry": { "type": "Point", "coordinates": [ -86.844521, 32.756880 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "count": "4", "complai_03": "Cramming (RCRM)", "dispute": 147.300000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "AL", "statename": "Alabama" }, "geometry": { "type": "Point", "coordinates": [ -86.844521, 32.756880 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "count": "5", "complai_03": "Not Specified", "dispute": 126.960000, "refund": 207.000000, "numcarrier": "2", "stateabbr": "AL", "statename": "Alabama" }, "geometry": { "type": "Point", "coordinates": [ -86.844521, 32.756880 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "count": "8", "complai_03": "By Carrier", "dispute": 1852.950000, "refund": 897.000000, "numcarrier": "4", "stateabbr": "AR", "statename": "Arkansas" }, "geometry": { "type": "Point", "coordinates": [ -92.439237, 34.899772 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "AR", "statename": "Arkansas" }, "geometry": { "type": "Point", "coordinates": [ -92.439237, 34.899772 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 59.850000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "AR", "statename": "Arkansas" }, "geometry": { "type": "Point", "coordinates": [ -92.439237, 34.899772 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "count": "2", "complai_03": "Not Specified", "dispute": 114.900000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "AR", "statename": "Arkansas" }, "geometry": { "type": "Point", "coordinates": [ -92.439237, 34.899772 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "count": "15", "complai_03": "By Carrier", "dispute": 1407.540000, "refund": 25.000000, "numcarrier": "6", "stateabbr": "AZ", "statename": "Arizona" }, "geometry": { "type": "Point", "coordinates": [ -111.664390, 34.293065 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "count": "3", "complai_03": "By Third Party", "dispute": 743.120000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "AZ", "statename": "Arizona" }, "geometry": { "type": "Point", "coordinates": [ -111.664390, 34.293065 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 19.980000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "AZ", "statename": "Arizona" }, "geometry": { "type": "Point", "coordinates": [ -111.664390, 34.293065 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "count": "8", "complai_03": "Not Specified", "dispute": 332.610000, "refund": 252.000000, "numcarrier": "6", "stateabbr": "AZ", "statename": "Arizona" }, "geometry": { "type": "Point", "coordinates": [ -111.664390, 34.293065 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "count": "71", "complai_03": "By Carrier", "dispute": 8542.310000, "refund": 3600.000000, "numcarrier": "16", "stateabbr": "CA", "statename": "California" }, "geometry": { "type": "Point", "coordinates": [ -119.663837, 37.215297 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "count": "69", "complai_03": "By Third Party", "dispute": 10276.640000, "refund": 2898.000000, "numcarrier": "10", "stateabbr": "CA", "statename": "California" }, "geometry": { "type": "Point", "coordinates": [ -119.663837, 37.215297 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "count": "41", "complai_03": "Cramming (RCRM)", "dispute": 6432.570000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "CA", "statename": "California" }, "geometry": { "type": "Point", "coordinates": [ -119.663837, 37.215297 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "count": "107", "complai_03": "Not Specified", "dispute": 31297.060000, "refund": 2362.000000, "numcarrier": "16", "stateabbr": "CA", "statename": "California" }, "geometry": { "type": "Point", "coordinates": [ -119.663837, 37.215297 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "count": "2", "complai_03": "By Carrier", "dispute": 52.170000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "CO", "statename": "Colorado" }, "geometry": { "type": "Point", "coordinates": [ -105.547826, 38.998544 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "count": "6", "complai_03": "By Third Party", "dispute": 37.590000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "CO", "statename": "Colorado" }, "geometry": { "type": "Point", "coordinates": [ -105.547826, 38.998544 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "CO", "statename": "Colorado" }, "geometry": { "type": "Point", "coordinates": [ -105.547826, 38.998544 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "count": "4", "complai_03": "Not Specified", "dispute": 541.960000, "refund": 423.000000, "numcarrier": "4", "stateabbr": "CO", "statename": "Colorado" }, "geometry": { "type": "Point", "coordinates": [ -105.547826, 38.998544 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "count": "16", "complai_03": "By Carrier", "dispute": 2976.000000, "refund": 6784.000000, "numcarrier": "4", "stateabbr": "CT", "statename": "Connecticut" }, "geometry": { "type": "Point", "coordinates": [ -72.738269, 41.575151 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "count": "2", "complai_03": "By Third Party", "dispute": 212.590000, "refund": 212.000000, "numcarrier": "2", "stateabbr": "CT", "statename": "Connecticut" }, "geometry": { "type": "Point", "coordinates": [ -72.738269, 41.575151 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 60.600000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "CT", "statename": "Connecticut" }, "geometry": { "type": "Point", "coordinates": [ -72.738269, 41.575151 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 23.800000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "CT", "statename": "Connecticut" }, "geometry": { "type": "Point", "coordinates": [ -72.738269, 41.575151 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 111.200000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "DC", "statename": "District of Columbia" }, "geometry": { "type": "Point", "coordinates": [ -77.016289, 38.904772 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 12.950000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "DC", "statename": "District of Columbia" }, "geometry": { "type": "Point", "coordinates": [ -77.016289, 38.904772 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "count": "10", "complai_03": "Cramming (RCRM)", "dispute": 1442.420000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "DC", "statename": "District of Columbia" }, "geometry": { "type": "Point", "coordinates": [ -77.016289, 38.904772 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 732.980000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "DC", "statename": "District of Columbia" }, "geometry": { "type": "Point", "coordinates": [ -77.016289, 38.904772 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 70.750000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "DE", "statename": "Delaware" }, "geometry": { "type": "Point", "coordinates": [ -75.452492, 38.994975 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "count": "5", "complai_03": "Not Specified", "dispute": 1270.750000, "refund": 1432.000000, "numcarrier": "2", "stateabbr": "DE", "statename": "Delaware" }, "geometry": { "type": "Point", "coordinates": [ -75.452492, 38.994975 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "count": "32", "complai_03": "By Carrier", "dispute": 2923.080000, "refund": 1390.000000, "numcarrier": "8", "stateabbr": "FL", "statename": "Florida" }, "geometry": { "type": "Point", "coordinates": [ -82.466418, 28.477058 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "count": "17", "complai_03": "By Third Party", "dispute": 719.290000, "refund": 68.000000, "numcarrier": "4", "stateabbr": "FL", "statename": "Florida" }, "geometry": { "type": "Point", "coordinates": [ -82.466418, 28.477058 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "count": "15", "complai_03": "Cramming (RCRM)", "dispute": 361.990000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "FL", "statename": "Florida" }, "geometry": { "type": "Point", "coordinates": [ -82.466418, 28.477058 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "count": "41", "complai_03": "Not Specified", "dispute": 2139.850000, "refund": 1228.000000, "numcarrier": "9", "stateabbr": "FL", "statename": "Florida" }, "geometry": { "type": "Point", "coordinates": [ -82.466418, 28.477058 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "count": "20", "complai_03": "By Carrier", "dispute": 298.740000, "refund": 5629.000000, "numcarrier": "6", "stateabbr": "GA", "statename": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ -83.427140, 32.638611 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "count": "12", "complai_03": "By Third Party", "dispute": 1231.860000, "refund": 408.000000, "numcarrier": "5", "stateabbr": "GA", "statename": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ -83.427140, 32.638611 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "count": "9", "complai_03": "Cramming (RCRM)", "dispute": 571.680000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "GA", "statename": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ -83.427140, 32.638611 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "count": "13", "complai_03": "Not Specified", "dispute": 2166.850000, "refund": 1289.000000, "numcarrier": "5", "stateabbr": "GA", "statename": "Georgia" }, "geometry": { "type": "Point", "coordinates": [ -83.427140, 32.638611 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 311.960000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "HI", "statename": "Hawaii" }, "geometry": { "type": "Point", "coordinates": [ -158.064841, 20.978847 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 9.990000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "IA", "statename": "Iowa" }, "geometry": { "type": "Point", "coordinates": [ -93.500081, 42.074650 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 599.500000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "IA", "statename": "Iowa" }, "geometry": { "type": "Point", "coordinates": [ -93.500081, 42.074650 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 605.000000, "refund": 37.000000, "numcarrier": "1", "stateabbr": "ID", "statename": "Idaho" }, "geometry": { "type": "Point", "coordinates": [ -114.659376, 44.389071 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 34.950000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "ID", "statename": "Idaho" }, "geometry": { "type": "Point", "coordinates": [ -114.659376, 44.389071 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 49.500000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "ID", "statename": "Idaho" }, "geometry": { "type": "Point", "coordinates": [ -114.659376, 44.389071 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "count": "28", "complai_03": "By Carrier", "dispute": 625.740000, "refund": 274.000000, "numcarrier": "10", "stateabbr": "IL", "statename": "Illinois" }, "geometry": { "type": "Point", "coordinates": [ -89.148632, 40.124199 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "count": "32", "complai_03": "By Third Party", "dispute": 611.460000, "refund": 8860.000000, "numcarrier": "9", "stateabbr": "IL", "statename": "Illinois" }, "geometry": { "type": "Point", "coordinates": [ -89.148632, 40.124199 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "count": "7", "complai_03": "Cramming (RCRM)", "dispute": 3143.250000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "IL", "statename": "Illinois" }, "geometry": { "type": "Point", "coordinates": [ -89.148632, 40.124199 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "count": "38", "complai_03": "Not Specified", "dispute": 2487.530000, "refund": 814.000000, "numcarrier": "14", "stateabbr": "IL", "statename": "Illinois" }, "geometry": { "type": "Point", "coordinates": [ -89.148632, 40.124199 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "count": "4", "complai_03": "By Carrier", "dispute": 36.080000, "refund": 51.000000, "numcarrier": "2", "stateabbr": "IN", "statename": "Indiana" }, "geometry": { "type": "Point", "coordinates": [ -86.281825, 39.919881 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "count": "3", "complai_03": "By Third Party", "dispute": 201.850000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "IN", "statename": "Indiana" }, "geometry": { "type": "Point", "coordinates": [ -86.281825, 39.919881 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 22.600000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "IN", "statename": "Indiana" }, "geometry": { "type": "Point", "coordinates": [ -86.281825, 39.919881 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "count": "7", "complai_03": "Not Specified", "dispute": 90.680000, "refund": 12.000000, "numcarrier": "4", "stateabbr": "IN", "statename": "Indiana" }, "geometry": { "type": "Point", "coordinates": [ -86.281825, 39.919881 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "count": "11", "complai_03": "By Carrier", "dispute": 2373.010000, "refund": 2288.000000, "numcarrier": "5", "stateabbr": "KS", "statename": "Kansas" }, "geometry": { "type": "Point", "coordinates": [ -98.380161, 38.484725 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "count": "2", "complai_03": "By Third Party", "dispute": 1741.850000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "KS", "statename": "Kansas" }, "geometry": { "type": "Point", "coordinates": [ -98.380161, 38.484725 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 14.950000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "KS", "statename": "Kansas" }, "geometry": { "type": "Point", "coordinates": [ -98.380161, 38.484725 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "count": "10", "complai_03": "Not Specified", "dispute": 302.000000, "refund": 29.000000, "numcarrier": "4", "stateabbr": "KS", "statename": "Kansas" }, "geometry": { "type": "Point", "coordinates": [ -98.380161, 38.484725 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 105.960000, "refund": 124.000000, "numcarrier": "1", "stateabbr": "KY", "statename": "Kentucky" }, "geometry": { "type": "Point", "coordinates": [ -85.290563, 37.526618 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 479.400000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "KY", "statename": "Kentucky" }, "geometry": { "type": "Point", "coordinates": [ -85.290563, 37.526618 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 43.300000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "KY", "statename": "Kentucky" }, "geometry": { "type": "Point", "coordinates": [ -85.290563, 37.526618 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "count": "24", "complai_03": "Not Specified", "dispute": 6983.900000, "refund": 6958.000000, "numcarrier": "8", "stateabbr": "KY", "statename": "Kentucky" }, "geometry": { "type": "Point", "coordinates": [ -85.290563, 37.526618 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "count": "7", "complai_03": "By Carrier", "dispute": 38.920000, "refund": 12.000000, "numcarrier": "3", "stateabbr": "LA", "statename": "Louisiana" }, "geometry": { "type": "Point", "coordinates": [ -91.814093, 30.909038 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "count": "6", "complai_03": "By Third Party", "dispute": 1598.740000, "refund": 488.000000, "numcarrier": "3", "stateabbr": "LA", "statename": "Louisiana" }, "geometry": { "type": "Point", "coordinates": [ -91.814093, 30.909038 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 693.050000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "LA", "statename": "Louisiana" }, "geometry": { "type": "Point", "coordinates": [ -91.814093, 30.909038 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "count": "6", "complai_03": "Not Specified", "dispute": 148.780000, "refund": 48.000000, "numcarrier": "4", "stateabbr": "LA", "statename": "Louisiana" }, "geometry": { "type": "Point", "coordinates": [ -91.814093, 30.909038 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "count": "15", "complai_03": "By Carrier", "dispute": 504.620000, "refund": 621.000000, "numcarrier": "4", "stateabbr": "MA", "statename": "Massachusetts" }, "geometry": { "type": "Point", "coordinates": [ -71.503987, 42.160090 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "count": "7", "complai_03": "By Third Party", "dispute": 308.840000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "MA", "statename": "Massachusetts" }, "geometry": { "type": "Point", "coordinates": [ -71.503987, 42.160090 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "count": "12", "complai_03": "Cramming (RCRM)", "dispute": 668.230000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "MA", "statename": "Massachusetts" }, "geometry": { "type": "Point", "coordinates": [ -71.503987, 42.160090 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "count": "32", "complai_03": "Not Specified", "dispute": 9548.890000, "refund": 3180.000000, "numcarrier": "8", "stateabbr": "MA", "statename": "Massachusetts" }, "geometry": { "type": "Point", "coordinates": [ -71.503987, 42.160090 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "count": "40", "complai_03": "By Carrier", "dispute": 7967.130000, "refund": 6907.000000, "numcarrier": "10", "stateabbr": "MD", "statename": "Maryland" }, "geometry": { "type": "Point", "coordinates": [ -76.687175, 38.946493 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "count": "31", "complai_03": "By Third Party", "dispute": 2198.970000, "refund": 247.000000, "numcarrier": "8", "stateabbr": "MD", "statename": "Maryland" }, "geometry": { "type": "Point", "coordinates": [ -76.687175, 38.946493 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "count": "25", "complai_03": "Cramming (RCRM)", "dispute": 6471.180000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "MD", "statename": "Maryland" }, "geometry": { "type": "Point", "coordinates": [ -76.687175, 38.946493 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "count": "47", "complai_03": "Not Specified", "dispute": 5206.410000, "refund": 2914.000000, "numcarrier": "11", "stateabbr": "MD", "statename": "Maryland" }, "geometry": { "type": "Point", "coordinates": [ -76.687175, 38.946493 ] } }
+,
+{ "type": "Feature", "id": 65537, "properties": { "count": "4", "complai_03": "By Carrier", "dispute": 17.480000, "refund": 24.000000, "numcarrier": "2", "stateabbr": "MI", "statename": "Michigan" }, "geometry": { "type": "Point", "coordinates": [ -85.730953, 44.874774 ] } }
+,
+{ "type": "Feature", "id": 65538, "properties": { "count": "9", "complai_03": "By Third Party", "dispute": 174.860000, "refund": 581.000000, "numcarrier": "4", "stateabbr": "MI", "statename": "Michigan" }, "geometry": { "type": "Point", "coordinates": [ -85.730953, 44.874774 ] } }
+,
+{ "type": "Feature", "id": 65539, "properties": { "count": "8", "complai_03": "Cramming (RCRM)", "dispute": 88.850000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "MI", "statename": "Michigan" }, "geometry": { "type": "Point", "coordinates": [ -85.730953, 44.874774 ] } }
+,
+{ "type": "Feature", "id": 65540, "properties": { "count": "39", "complai_03": "Not Specified", "dispute": 1402.480000, "refund": 609.000000, "numcarrier": "12", "stateabbr": "MI", "statename": "Michigan" }, "geometry": { "type": "Point", "coordinates": [ -85.730953, 44.874774 ] } }
+,
+{ "type": "Feature", "id": 65541, "properties": { "count": "11", "complai_03": "By Carrier", "dispute": 198.300000, "refund": 0.000000, "numcarrier": "4", "stateabbr": "MN", "statename": "Minnesota" }, "geometry": { "type": "Point", "coordinates": [ -94.198306, 46.349111 ] } }
+,
+{ "type": "Feature", "id": 65542, "properties": { "count": "7", "complai_03": "By Third Party", "dispute": 219.480000, "refund": 100.000000, "numcarrier": "3", "stateabbr": "MN", "statename": "Minnesota" }, "geometry": { "type": "Point", "coordinates": [ -94.198306, 46.349111 ] } }
+,
+{ "type": "Feature", "id": 65543, "properties": { "count": "5", "complai_03": "Cramming (RCRM)", "dispute": 119.600000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "MN", "statename": "Minnesota" }, "geometry": { "type": "Point", "coordinates": [ -94.198306, 46.349111 ] } }
+,
+{ "type": "Feature", "id": 65544, "properties": { "count": "15", "complai_03": "Not Specified", "dispute": 36.170000, "refund": 0.000000, "numcarrier": "6", "stateabbr": "MN", "statename": "Minnesota" }, "geometry": { "type": "Point", "coordinates": [ -94.198306, 46.349111 ] } }
+,
+{ "type": "Feature", "id": 65545, "properties": { "count": "11", "complai_03": "By Carrier", "dispute": 381.460000, "refund": 247.000000, "numcarrier": "4", "stateabbr": "MO", "statename": "Missouri" }, "geometry": { "type": "Point", "coordinates": [ -92.477426, 38.367630 ] } }
+,
+{ "type": "Feature", "id": 65546, "properties": { "count": "17", "complai_03": "By Third Party", "dispute": 4262.650000, "refund": 4311.000000, "numcarrier": "4", "stateabbr": "MO", "statename": "Missouri" }, "geometry": { "type": "Point", "coordinates": [ -92.477426, 38.367630 ] } }
+,
+{ "type": "Feature", "id": 65547, "properties": { "count": "6", "complai_03": "Cramming (RCRM)", "dispute": 232.780000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "MO", "statename": "Missouri" }, "geometry": { "type": "Point", "coordinates": [ -92.477426, 38.367630 ] } }
+,
+{ "type": "Feature", "id": 65548, "properties": { "count": "37", "complai_03": "Not Specified", "dispute": 791.420000, "refund": 3082.000000, "numcarrier": "11", "stateabbr": "MO", "statename": "Missouri" }, "geometry": { "type": "Point", "coordinates": [ -92.477426, 38.367630 ] } }
+,
+{ "type": "Feature", "id": 65549, "properties": { "count": "6", "complai_03": "By Carrier", "dispute": 182.840000, "refund": 36.000000, "numcarrier": "2", "stateabbr": "MS", "statename": "Mississippi" }, "geometry": { "type": "Point", "coordinates": [ -89.653480, 32.713344 ] } }
+,
+{ "type": "Feature", "id": 65550, "properties": { "count": "9", "complai_03": "By Third Party", "dispute": 946.170000, "refund": 945.000000, "numcarrier": "3", "stateabbr": "MS", "statename": "Mississippi" }, "geometry": { "type": "Point", "coordinates": [ -89.653480, 32.713344 ] } }
+,
+{ "type": "Feature", "id": 65551, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 196.860000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "MS", "statename": "Mississippi" }, "geometry": { "type": "Point", "coordinates": [ -89.653480, 32.713344 ] } }
+,
+{ "type": "Feature", "id": 65552, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "MS", "statename": "Mississippi" }, "geometry": { "type": "Point", "coordinates": [ -89.653480, 32.713344 ] } }
+,
+{ "type": "Feature", "id": 65553, "properties": { "count": "14", "complai_03": "By Carrier", "dispute": 487.580000, "refund": 922.000000, "numcarrier": "6", "stateabbr": "NC", "statename": "North Carolina" }, "geometry": { "type": "Point", "coordinates": [ -79.130909, 35.526023 ] } }
+,
+{ "type": "Feature", "id": 65554, "properties": { "count": "9", "complai_03": "By Third Party", "dispute": 1125.040000, "refund": 1159.000000, "numcarrier": "3", "stateabbr": "NC", "statename": "North Carolina" }, "geometry": { "type": "Point", "coordinates": [ -79.130909, 35.526023 ] } }
+,
+{ "type": "Feature", "id": 65555, "properties": { "count": "8", "complai_03": "Cramming (RCRM)", "dispute": 1085.670000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "NC", "statename": "North Carolina" }, "geometry": { "type": "Point", "coordinates": [ -79.130909, 35.526023 ] } }
+,
+{ "type": "Feature", "id": 65556, "properties": { "count": "34", "complai_03": "Not Specified", "dispute": 3570.710000, "refund": 543.000000, "numcarrier": "14", "stateabbr": "NC", "statename": "North Carolina" }, "geometry": { "type": "Point", "coordinates": [ -79.130909, 35.526023 ] } }
+,
+{ "type": "Feature", "id": 65557, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 0.000000, "refund": 85.000000, "numcarrier": "1", "stateabbr": "NE", "statename": "Nebraska" }, "geometry": { "type": "Point", "coordinates": [ -99.810856, 41.527151 ] } }
+,
+{ "type": "Feature", "id": 65558, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "NE", "statename": "Nebraska" }, "geometry": { "type": "Point", "coordinates": [ -99.810856, 41.527151 ] } }
+,
+{ "type": "Feature", "id": 65559, "properties": { "count": "4", "complai_03": "Cramming (RCRM)", "dispute": 68.820000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "NH", "statename": "New Hampshire" }, "geometry": { "type": "Point", "coordinates": [ -71.571225, 43.680183 ] } }
+,
+{ "type": "Feature", "id": 65560, "properties": { "count": "11", "complai_03": "By Carrier", "dispute": 6648.680000, "refund": 3886.000000, "numcarrier": "7", "stateabbr": "NJ", "statename": "New Jersey" }, "geometry": { "type": "Point", "coordinates": [ -74.655608, 40.110128 ] } }
+,
+{ "type": "Feature", "id": 65561, "properties": { "count": "25", "complai_03": "By Third Party", "dispute": 765.850000, "refund": 1871.000000, "numcarrier": "5", "stateabbr": "NJ", "statename": "New Jersey" }, "geometry": { "type": "Point", "coordinates": [ -74.655608, 40.110128 ] } }
+,
+{ "type": "Feature", "id": 65562, "properties": { "count": "24", "complai_03": "Cramming (RCRM)", "dispute": 2342.130000, "refund": 0.000000, "numcarrier": "4", "stateabbr": "NJ", "statename": "New Jersey" }, "geometry": { "type": "Point", "coordinates": [ -74.655608, 40.110128 ] } }
+,
+{ "type": "Feature", "id": 65563, "properties": { "count": "38", "complai_03": "Not Specified", "dispute": 1660.680000, "refund": 255.000000, "numcarrier": "11", "stateabbr": "NJ", "statename": "New Jersey" }, "geometry": { "type": "Point", "coordinates": [ -74.655608, 40.110128 ] } }
+,
+{ "type": "Feature", "id": 65564, "properties": { "count": "2", "complai_03": "By Carrier", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "NM", "statename": "New Mexico" }, "geometry": { "type": "Point", "coordinates": [ -106.108380, 34.421362 ] } }
+,
+{ "type": "Feature", "id": 65565, "properties": { "count": "4", "complai_03": "Not Specified", "dispute": 2073.600000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "NM", "statename": "New Mexico" }, "geometry": { "type": "Point", "coordinates": [ -106.108380, 34.421362 ] } }
+,
+{ "type": "Feature", "id": 65566, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 294.720000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "NV", "statename": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -116.655231, 39.356204 ] } }
+,
+{ "type": "Feature", "id": 65567, "properties": { "count": "10", "complai_03": "By Third Party", "dispute": 501.600000, "refund": 79.000000, "numcarrier": "4", "stateabbr": "NV", "statename": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -116.655231, 39.356204 ] } }
+,
+{ "type": "Feature", "id": 65568, "properties": { "count": "3", "complai_03": "Cramming (RCRM)", "dispute": 14.950000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "NV", "statename": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -116.655231, 39.356204 ] } }
+,
+{ "type": "Feature", "id": 65569, "properties": { "count": "7", "complai_03": "Not Specified", "dispute": 232.600000, "refund": 204.000000, "numcarrier": "5", "stateabbr": "NV", "statename": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -116.655231, 39.356204 ] } }
+,
+{ "type": "Feature", "id": 65570, "properties": { "count": "49", "complai_03": "By Carrier", "dispute": 1178.490000, "refund": 1108.000000, "numcarrier": "10", "stateabbr": "NY", "statename": "New York" }, "geometry": { "type": "Point", "coordinates": [ -75.596537, 42.921227 ] } }
+,
+{ "type": "Feature", "id": 65571, "properties": { "count": "49", "complai_03": "By Third Party", "dispute": 2521.020000, "refund": 1853.000000, "numcarrier": "7", "stateabbr": "NY", "statename": "New York" }, "geometry": { "type": "Point", "coordinates": [ -75.596537, 42.921227 ] } }
+,
+{ "type": "Feature", "id": 65572, "properties": { "count": "20", "complai_03": "Cramming (RCRM)", "dispute": 1041.620000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "NY", "statename": "New York" }, "geometry": { "type": "Point", "coordinates": [ -75.596537, 42.921227 ] } }
+,
+{ "type": "Feature", "id": 65573, "properties": { "count": "60", "complai_03": "Not Specified", "dispute": 3835.800000, "refund": 2587.000000, "numcarrier": "13", "stateabbr": "NY", "statename": "New York" }, "geometry": { "type": "Point", "coordinates": [ -75.596537, 42.921227 ] } }
+,
+{ "type": "Feature", "id": 65574, "properties": { "count": "3", "complai_03": "By Carrier", "dispute": 0.000000, "refund": 27.000000, "numcarrier": "2", "stateabbr": "OH", "statename": "Ohio" }, "geometry": { "type": "Point", "coordinates": [ -82.709378, 40.415487 ] } }
+,
+{ "type": "Feature", "id": 65575, "properties": { "count": "13", "complai_03": "By Third Party", "dispute": 386.140000, "refund": 300.000000, "numcarrier": "5", "stateabbr": "OH", "statename": "Ohio" }, "geometry": { "type": "Point", "coordinates": [ -82.709378, 40.415487 ] } }
+,
+{ "type": "Feature", "id": 65576, "properties": { "count": "10", "complai_03": "Cramming (RCRM)", "dispute": 442.870000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "OH", "statename": "Ohio" }, "geometry": { "type": "Point", "coordinates": [ -82.709378, 40.415487 ] } }
+,
+{ "type": "Feature", "id": 65577, "properties": { "count": "9", "complai_03": "Not Specified", "dispute": 146.420000, "refund": 0.000000, "numcarrier": "5", "stateabbr": "OH", "statename": "Ohio" }, "geometry": { "type": "Point", "coordinates": [ -82.709378, 40.415487 ] } }
+,
+{ "type": "Feature", "id": 65578, "properties": { "count": "2", "complai_03": "By Carrier", "dispute": 5.540000, "refund": 5.000000, "numcarrier": "1", "stateabbr": "OK", "statename": "Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -97.508221, 35.583460 ] } }
+,
+{ "type": "Feature", "id": 65579, "properties": { "count": "3", "complai_03": "By Third Party", "dispute": 559.500000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "OK", "statename": "Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -97.508221, 35.583460 ] } }
+,
+{ "type": "Feature", "id": 65580, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 146.920000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "OK", "statename": "Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -97.508221, 35.583460 ] } }
+,
+{ "type": "Feature", "id": 65581, "properties": { "count": "5", "complai_03": "Not Specified", "dispute": 25.000000, "refund": 153.000000, "numcarrier": "3", "stateabbr": "OK", "statename": "Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -97.508221, 35.583460 ] } }
+,
+{ "type": "Feature", "id": 65582, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "OR", "statename": "Oregon" }, "geometry": { "type": "Point", "coordinates": [ -120.605273, 43.940439 ] } }
+,
+{ "type": "Feature", "id": 65583, "properties": { "count": "8", "complai_03": "By Third Party", "dispute": 568.770000, "refund": 25.000000, "numcarrier": "4", "stateabbr": "OR", "statename": "Oregon" }, "geometry": { "type": "Point", "coordinates": [ -120.605273, 43.940439 ] } }
+,
+{ "type": "Feature", "id": 65584, "properties": { "count": "5", "complai_03": "Cramming (RCRM)", "dispute": 225.800000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "OR", "statename": "Oregon" }, "geometry": { "type": "Point", "coordinates": [ -120.605273, 43.940439 ] } }
+,
+{ "type": "Feature", "id": 65585, "properties": { "count": "6", "complai_03": "Not Specified", "dispute": 1109.930000, "refund": 348.000000, "numcarrier": "4", "stateabbr": "OR", "statename": "Oregon" }, "geometry": { "type": "Point", "coordinates": [ -120.605273, 43.940439 ] } }
+,
+{ "type": "Feature", "id": 65586, "properties": { "count": "28", "complai_03": "By Carrier", "dispute": 3236.520000, "refund": 1161.000000, "numcarrier": "6", "stateabbr": "PA", "statename": "Pennsylvania" }, "geometry": { "type": "Point", "coordinates": [ -77.838917, 40.896700 ] } }
+,
+{ "type": "Feature", "id": 65587, "properties": { "count": "18", "complai_03": "By Third Party", "dispute": 795.790000, "refund": 17.000000, "numcarrier": "6", "stateabbr": "PA", "statename": "Pennsylvania" }, "geometry": { "type": "Point", "coordinates": [ -77.838917, 40.896700 ] } }
+,
+{ "type": "Feature", "id": 65588, "properties": { "count": "21", "complai_03": "Cramming (RCRM)", "dispute": 660.550000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "PA", "statename": "Pennsylvania" }, "geometry": { "type": "Point", "coordinates": [ -77.838917, 40.896700 ] } }
+,
+{ "type": "Feature", "id": 65589, "properties": { "count": "49", "complai_03": "Not Specified", "dispute": 1418.050000, "refund": 3754.000000, "numcarrier": "8", "stateabbr": "PA", "statename": "Pennsylvania" }, "geometry": { "type": "Point", "coordinates": [ -77.838917, 40.896700 ] } }
+,
+{ "type": "Feature", "id": 65590, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 27.650000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "PR", "statename": "Puerto Rico" }, "geometry": { "type": "Point", "coordinates": [ -66.414667, 18.215698 ] } }
+,
+{ "type": "Feature", "id": 65591, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 44.500000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "PR", "statename": "Puerto Rico" }, "geometry": { "type": "Point", "coordinates": [ -66.414667, 18.215698 ] } }
+,
+{ "type": "Feature", "id": 65592, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "RI", "statename": "Rhode Island" }, "geometry": { "type": "Point", "coordinates": [ -71.524742, 41.594629 ] } }
+,
+{ "type": "Feature", "id": 65593, "properties": { "count": "1", "complai_03": "Not Specified", "dispute": 68.290000, "refund": 68.000000, "numcarrier": "1", "stateabbr": "RI", "statename": "Rhode Island" }, "geometry": { "type": "Point", "coordinates": [ -71.524742, 41.594629 ] } }
+,
+{ "type": "Feature", "id": 65594, "properties": { "count": "9", "complai_03": "By Carrier", "dispute": 35.520000, "refund": 36.000000, "numcarrier": "3", "stateabbr": "SC", "statename": "South Carolina" }, "geometry": { "type": "Point", "coordinates": [ -80.864596, 33.877856 ] } }
+,
+{ "type": "Feature", "id": 65595, "properties": { "count": "19", "complai_03": "By Third Party", "dispute": 7404.390000, "refund": 0.000000, "numcarrier": "7", "stateabbr": "SC", "statename": "South Carolina" }, "geometry": { "type": "Point", "coordinates": [ -80.864596, 33.877856 ] } }
+,
+{ "type": "Feature", "id": 65596, "properties": { "count": "3", "complai_03": "Cramming (RCRM)", "dispute": 225.400000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "SC", "statename": "South Carolina" }, "geometry": { "type": "Point", "coordinates": [ -80.864596, 33.877856 ] } }
+,
+{ "type": "Feature", "id": 65597, "properties": { "count": "3", "complai_03": "Not Specified", "dispute": 46.970000, "refund": 174.000000, "numcarrier": "2", "stateabbr": "SC", "statename": "South Carolina" }, "geometry": { "type": "Point", "coordinates": [ -80.864596, 33.877856 ] } }
+,
+{ "type": "Feature", "id": 65598, "properties": { "count": "18", "complai_03": "By Carrier", "dispute": 116.940000, "refund": 40.000000, "numcarrier": "6", "stateabbr": "TN", "statename": "Tennessee" }, "geometry": { "type": "Point", "coordinates": [ -86.343405, 35.842982 ] } }
+,
+{ "type": "Feature", "id": 65599, "properties": { "count": "5", "complai_03": "By Third Party", "dispute": 4.860000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "TN", "statename": "Tennessee" }, "geometry": { "type": "Point", "coordinates": [ -86.343405, 35.842982 ] } }
+,
+{ "type": "Feature", "id": 65600, "properties": { "count": "4", "complai_03": "Cramming (RCRM)", "dispute": 119.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "TN", "statename": "Tennessee" }, "geometry": { "type": "Point", "coordinates": [ -86.343405, 35.842982 ] } }
+,
+{ "type": "Feature", "id": 65601, "properties": { "count": "4", "complai_03": "Not Specified", "dispute": 44.760000, "refund": 5.000000, "numcarrier": "4", "stateabbr": "TN", "statename": "Tennessee" }, "geometry": { "type": "Point", "coordinates": [ -86.343405, 35.842982 ] } }
+,
+{ "type": "Feature", "id": 65602, "properties": { "count": "62", "complai_03": "By Carrier", "dispute": 4014.100000, "refund": 1724.000000, "numcarrier": "18", "stateabbr": "TX", "statename": "Texas" }, "geometry": { "type": "Point", "coordinates": [ -99.317137, 31.447215 ] } }
+,
+{ "type": "Feature", "id": 65603, "properties": { "count": "24", "complai_03": "By Third Party", "dispute": 16241.970000, "refund": 5207.000000, "numcarrier": "7", "stateabbr": "TX", "statename": "Texas" }, "geometry": { "type": "Point", "coordinates": [ -99.317137, 31.447215 ] } }
+,
+{ "type": "Feature", "id": 65604, "properties": { "count": "33", "complai_03": "Cramming (RCRM)", "dispute": 3850.560000, "refund": 0.000000, "numcarrier": "6", "stateabbr": "TX", "statename": "Texas" }, "geometry": { "type": "Point", "coordinates": [ -99.317137, 31.447215 ] } }
+,
+{ "type": "Feature", "id": 65605, "properties": { "count": "56", "complai_03": "Not Specified", "dispute": 4897.280000, "refund": 1517.000000, "numcarrier": "14", "stateabbr": "TX", "statename": "Texas" }, "geometry": { "type": "Point", "coordinates": [ -99.317137, 31.447215 ] } }
+,
+{ "type": "Feature", "id": 65606, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 13.630000, "refund": 7.000000, "numcarrier": "1", "stateabbr": "UT", "statename": "Utah" }, "geometry": { "type": "Point", "coordinates": [ -111.678224, 39.323782 ] } }
+,
+{ "type": "Feature", "id": 65607, "properties": { "count": "1", "complai_03": "Cramming (RCRM)", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "UT", "statename": "Utah" }, "geometry": { "type": "Point", "coordinates": [ -111.678224, 39.323782 ] } }
+,
+{ "type": "Feature", "id": 65608, "properties": { "count": "50", "complai_03": "By Carrier", "dispute": 6303.800000, "refund": 2790.000000, "numcarrier": "12", "stateabbr": "VA", "statename": "Virginia" }, "geometry": { "type": "Point", "coordinates": [ -78.666361, 37.510867 ] } }
+,
+{ "type": "Feature", "id": 65609, "properties": { "count": "21", "complai_03": "By Third Party", "dispute": 3606.850000, "refund": 455.000000, "numcarrier": "5", "stateabbr": "VA", "statename": "Virginia" }, "geometry": { "type": "Point", "coordinates": [ -78.666361, 37.510867 ] } }
+,
+{ "type": "Feature", "id": 131073, "properties": { "count": "27", "complai_03": "Cramming (RCRM)", "dispute": 576.510000, "refund": 0.000000, "numcarrier": "5", "stateabbr": "VA", "statename": "Virginia" }, "geometry": { "type": "Point", "coordinates": [ -78.666361, 37.510867 ] } }
+,
+{ "type": "Feature", "id": 131074, "properties": { "count": "50", "complai_03": "Not Specified", "dispute": 2079.160000, "refund": 1075.000000, "numcarrier": "12", "stateabbr": "VA", "statename": "Virginia" }, "geometry": { "type": "Point", "coordinates": [ -78.666361, 37.510867 ] } }
+,
+{ "type": "Feature", "id": 131075, "properties": { "count": "1", "complai_03": "By Third Party", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "VI", "statename": "United States Virgin Islands" }, "geometry": { "type": "Point", "coordinates": [ -64.839037, 18.059818 ] } }
+,
+{ "type": "Feature", "id": 131076, "properties": { "count": "4", "complai_03": "By Carrier", "dispute": 0.000000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "WA", "statename": "Washington" }, "geometry": { "type": "Point", "coordinates": [ -120.592517, 47.411711 ] } }
+,
+{ "type": "Feature", "id": 131077, "properties": { "count": "16", "complai_03": "By Third Party", "dispute": 83.100000, "refund": 90.000000, "numcarrier": "7", "stateabbr": "WA", "statename": "Washington" }, "geometry": { "type": "Point", "coordinates": [ -120.592517, 47.411711 ] } }
+,
+{ "type": "Feature", "id": 131078, "properties": { "count": "15", "complai_03": "Not Specified", "dispute": 199.650000, "refund": 147.000000, "numcarrier": "9", "stateabbr": "WA", "statename": "Washington" }, "geometry": { "type": "Point", "coordinates": [ -120.592517, 47.411711 ] } }
+,
+{ "type": "Feature", "id": 131079, "properties": { "count": "6", "complai_03": "By Carrier", "dispute": 238.230000, "refund": 262.000000, "numcarrier": "4", "stateabbr": "WI", "statename": "Wisconsin" }, "geometry": { "type": "Point", "coordinates": [ -89.732933, 44.639946 ] } }
+,
+{ "type": "Feature", "id": 131080, "properties": { "count": "4", "complai_03": "By Third Party", "dispute": 531.710000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "WI", "statename": "Wisconsin" }, "geometry": { "type": "Point", "coordinates": [ -89.732933, 44.639946 ] } }
+,
+{ "type": "Feature", "id": 131081, "properties": { "count": "2", "complai_03": "Cramming (RCRM)", "dispute": 34.950000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "WI", "statename": "Wisconsin" }, "geometry": { "type": "Point", "coordinates": [ -89.732933, 44.639946 ] } }
+,
+{ "type": "Feature", "id": 131082, "properties": { "count": "3", "complai_03": "Not Specified", "dispute": 15.700000, "refund": 0.000000, "numcarrier": "2", "stateabbr": "WI", "statename": "Wisconsin" }, "geometry": { "type": "Point", "coordinates": [ -89.732933, 44.639946 ] } }
+,
+{ "type": "Feature", "id": 131083, "properties": { "count": "5", "complai_03": "Not Specified", "dispute": 224.940000, "refund": 0.000000, "numcarrier": "3", "stateabbr": "WV", "statename": "West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -80.613706, 38.642568 ] } }
+,
+{ "type": "Feature", "id": 131084, "properties": { "count": "1", "complai_03": "By Carrier", "dispute": 120.380000, "refund": 0.000000, "numcarrier": "1", "stateabbr": "WY", "statename": "Wyoming" }, "geometry": { "type": "Point", "coordinates": [ -107.551451, 42.999627 ] } }
+
+]
+}

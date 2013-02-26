@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Cramming Map FCC</title>
+<link rel='stylesheet' href='css/reset.css' type='text/css'>
+<link rel='stylesheet' href='css/style.css' type='text/css'>
+<link rel="stylesheet" href="js/openlayers/theme/default/style.css" type="text/css">
+<link rel="shortcut icon" href="http://www.fcc.gov/sites/default/files/fcc_favicon_0.ico" type="image/x-icon">
+
+</head>
+<body>
+
+<div id="header"> 
+    <h1>Summary of <span class='red-title'>Cramming Data</span></h1>
+    <ul id='map-navigation'>
+        <li><a id='alltype' class='candidate-tab active' href='' data-type='alltype'>All</a></li>
+        <li><a id='byCarrier' class='candidate-tab' href='' data-type='byCarrier'>By Carrier</a></li>
+        <li><a id='thirdParty' class='candidate-tab' href='' data-type='thirdParty'>By Third Party</a></li>
+        <li><a id='cramming' class='candidate-tab' href='' data-type='cramming'>Cramming(RCRM))</a></li>
+        <li><a id='notSpecified' class='candidate-tab' href='' data-type='notSpecified'>Not Specified</a></li>
+        <li><a id='searchByLocation' class='candidate-tab' href='' data-type='searchByLocation'>Search By Location</a></li>
+    </ul>
+</div>
+
+<div id="about">
+    <div class='description' id='description-alltype' >
+        <h1>Cramming Data</h1>
+        <h4>some descriptions here</h4>    
+	</div>
+	 <div class='description' id='description-byCarrier'>
+	    <h1>Cramming Data - By Carrier</h1>
+	     <h3>some description goes here</span></h3>
+      </div>
+
+	  <div class='description' id='description-thirdParty'>
+	  	<h1>Cramming Data - By Third Party</h1>
+	  	<h3>some description goes here</h3>	
+	  </div>
+
+		<div class='description' id='description-cramming'>
+			<h1>Cramming Data - Cramming(RCRM)</h1>
+			<h3>description goes here</h3>	
+		</div>
+
+		<div class='description' id='description-notSpecified'>
+		<h1>Cramming Data - Not Specified</h1>
+		<h3>description goes here</h3>
+		</div>
+		
+		<div class='description' id='description-searchByLocation'>
+			<h1>Search Cramming Cases by Location</h1>
+			<br />
+				<div>
+   				 <input id='addressTxt' type='text' style='width:250px' value="20878">   
+   				</div>
+   				<br />
+   				<div>
+   				 Number of closest cases: <input id='closestCases' type='text' value="10" style='width:100px'> <input id='goClose' type='button' value="Go">
+   				</div>
+   				<h1>OR</h1>
+   				<div>
+   				 	Cases within distance of: <input id='distance' type='text' value="50" style='width:100px'> (km)<input id='goDis' type='button' value="Go">
+   				</div>
+
+		</div>
+		
+
+
+  <div id="tooltips">
+ 
+	
+	</div>
+	
+</div>
+
+ <div id='mapcontainer'>
+ <ul class="macro">
+			<li><a id="count" class="active" href="#">Number of Cases</a></li>
+			<li><a id="numcarrier"  href="#">Number of Carriers</a></li>
+			<li><a id="dispute" href="#">Dispute Amount</a></li>
+			<li><a id="refund" href="#">Refund Amount</a></li>
+</ul>
+ 	  <div id='map'></div>
+ </div> 
+ 
+
+<!--<script src='https://raw.github.com/xqin1/gisdata/master/pirate.geojson'></script>-->
+<script src='js/crammingAllPoint.geojson'></script>
+<script src='js/crammingAllSum.geojson'></script>
+<script src='js/crammingbysubcat.geojson'></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+<script src="js/openlayers/OpenLayers.js"></script> 
+  <script src='js/jquery.dataTables.min.js'></script>	
+	
+  <script src='js/cramming.js'></script>
+</body>
+</html>
