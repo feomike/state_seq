@@ -28,16 +28,3 @@ We begin by first looking at each of the pdfs for a repeatable pattern in the do
 When this was complete, I exported the data to this csv, read that into a postgres database. My intent was to make a geojson file of this data, so I joined the data to a table containing state centroids as point geometry and a common state name field as our table. I then used this sql script to export the data to geojson. I then created this gitrepo, turned the repo into a gh-pages branch and bengin committing these files to that repo.
 
 I also engaged another colleage (@qinxiaoming) asking him what he could come up with. Completely on his own time he developed the above example in D3. In parallel I developed the above example in mapbox.
-
-##Costs
-- Software costs for storing the original data (Google Docs) - $0
-- Software cost for storing, formatting and joinging geoData (PostGIS) - $0
-- Software cost for exporting to geojson (Postgres) - $0
-- Software cost for manipulating D3 - $0
-- Software cost for manipulating map cartography (TileMill) - $0
-- Software cost for hosting map tiles (MapBox) - $0
-- Hardware cost for web hosting (gitHub) - $0
-- Software cost for tracking changes, governance, issue tracking, history, code sharing, collaboration and general badassery (gitHub) - $0
-
-##Conclusions
-I think there is a repeatable process here people should know about.
