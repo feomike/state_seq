@@ -51,11 +51,11 @@
 <p>Surprised at how these documents had real data, but were presented in pdfs, a colleague (@LearonDalby) and I were discussing how this data could be much better presented.  We decided late sunday night to enter the data into a machine readable format, and begin a small project for visualizing the data.</p>
 
 <h3>How we did it</h3>
-<p>We begin by first looking at each of the pdfs for a repeatable pattern in the document.  We decided to enter the data into a google spreadsheet; <a href="https://docs.google.com/spreadsheet/ccc?key=0Aooxb2GcQ9ifdGxoYjNKQW1kSm1rSG5Ba0NtNXFrOWc&usp=sharing">this one</a> in fact.  We begin by listing each state in the first column, and then adding columns for each of the areas listed in the pdfs (e.g. Teachers and Schools, Clean Air and Water, Public Health etc).  He begin reading these numbers, and I began typing these numbers into the google doc.</p>
+<p>We begin by first looking at each of the pdfs for a repeatable pattern in the document.  We decided to enter the data into a google spreadsheet; <a href="https://docs.google.com/spreadsheet/ccc?key=0Aooxb2GcQ9ifdGxoYjNKQW1kSm1rSG5Ba0NtNXFrOWc&usp=sharing">this one</a> in fact.  We listed each state in the first column, and then added columns for each of the areas listed in the pdfs (e.g. Teachers and Schools, Clean Air and Water, Public Health etc).  He began reading these numbers, and I typed these numbers into the google doc.</p>
 
-<p>When this was complete, I exported the data to this <a href="https://raw.github.com/feomike/state_seq/gh-pages/data/State-Sequester-20130225.txt">csv</a>, read that into a postgres database.  My intent was to make a geojson file of this data, so I joined the data to a table containing state centroids as point geometry and a common state name field as our table.  I then used <a href="https://raw.github.com/feomike/state_seq/gh-pages/data/export_geoJson.sql">this sql script</a> to expor the data to geojson.  I then created <a href="https://github.com/feomike/state_seq">this gitrepo</a>, turned the repo into a gh-pages branch and bengin committing these files to that repo.</p>
+<p>When this was complete, I exported the data to this <a href="https://raw.github.com/feomike/state_seq/gh-pages/data/State-Sequester-20130225.txt">csv</a>, read that into a postgres database.  My intent was to make a geojson file of this data, so I joined the data to a table containing state centroids as point geometry and a common state name field as our table.  I then used <a href="https://raw.github.com/feomike/state_seq/gh-pages/data/export_geoJson.sql">this sql script</a> to export the data to geojson.  I then created <a href="https://github.com/feomike/state_seq">this gitrepo</a>, turned the repo into a gh-pages branch and bengin committing these files to that repo.</p>
 
-<p>I also engaged another colleage (@qinxiaoming) asking him what he could come up w.  Completely on his own time he developed the above example in D3.  In parallel I developed the above example in mapbox.</p>
+<p>I also engaged another colleage (@qinxiaoming) asking him what he could come up with.  Completely on his own time he developed the above example in D3.  In parallel I developed the above example in mapbox.</p>
 
 <h3>Costs</h3>
 <p>Software costs for storing the original data (Google Docs) - $0</p>
@@ -69,14 +69,6 @@
 
 <h3>Conclusions</h3>
 <p>I think there is a repeatable process here people should know about.</p>
-
-
-
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
 
         </section>
 
