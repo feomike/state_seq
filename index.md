@@ -3,10 +3,7 @@ layout: default
 title: State Sequester
 ---
 
-state_seq
-=========
 
-state_sequester
 ##Example State Sequester Numbers
 
 
