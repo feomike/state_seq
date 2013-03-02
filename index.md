@@ -1,11 +1,7 @@
 ---
 layout: default
-title: State Sequester
+title: Example State Sequester
 ---
-
-
-##Example State Sequester Numbers
-
 
 ##Presenting Data
 This page is an example of transforming data into visualizations. It is entirely a work of my own and not in any way associated with my employer.
