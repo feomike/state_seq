@@ -11,7 +11,7 @@ I wanted to test some ideas brewing around a) data as part of the web ecology an
 
 ##Results
 - [Data File 1 - geojson](data/state_seq.geojson)
-- [Data File 2 - geojson](state_seq_pct.geojson)
+- [Data File 2 - geojson](data/state_seq_pct.geojson)
 - [MapBox Example Visualization](http://tiles.mapbox.com/feomike/map/map-cjk4bn33#4.00/39.53/-95.41)
 - [D3 Example Visualization](http://xqin1.github.com/d3_playground/state_seq.html)
 
