@@ -16,7 +16,7 @@ I wanted to test some ideas brewing around a) data as part of the web ecology an
 - [D3 Example Visualization](http://xqin1.github.com/d3_playground/state_seq.html)
 
 ##Background
-So Sunday February 25, 2013, the White House released a b[unch of documents detailing projected costs to states of the upcoming sequester. Several news outlets carried the story - [see this washington post article](http://www.washingtonpost.com/business/white-house-releases-state-by-state-breakdown-of-sequesters-effects/2013/02/24/caeb71a0-7ec0-11e2-a350-49866afab584_story.html). However, only [this article by the Huffington Post](http://www.huffingtonpost.com/2013/02/24/sequester-states_n_2755181.html) had links to each individual state document .
+So Sunday February 25, 2013, the White House released a b[unch of documents detailing projected costs to states of the upcoming sequester. Several news outlets carried the story - see this washington post [article](http://www.washingtonpost.com/business/white-house-releases-state-by-state-breakdown-of-sequesters-effects/2013/02/24/caeb71a0-7ec0-11e2-a350-49866afab584_story.html). However, only this [article](http://www.huffingtonpost.com/2013/02/24/sequester-states_n_2755181.html) by the Huffington Post had links to each individual state document .
 
 Surprised at how these documents had real data, but were presented in pdfs, a colleague - [@LearonDalby](https://twitter.com/LearonDalby) and I were discussing how this data could be much better presented. We decided late sunday night to enter the data into a machine readable format, and begin a small project for visualizing the data.
 
