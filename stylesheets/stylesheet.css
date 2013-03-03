@@ -69,7 +69,7 @@ header {
   padding-bottom: 25px;
 }
 
-title {
+header title {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
