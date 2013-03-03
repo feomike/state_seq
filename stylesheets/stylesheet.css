@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+title, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -67,6 +67,15 @@ a:hover {
 header {
   padding-top: 35px;
   padding-bottom: 25px;
+}
+
+title {
+  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
+  letter-spacing: -1px;
+  font-size: 48px;
+  color: #303030;
+  line-height: 1.2;
+  font-size: 48px;
 }
 
 header h1 {
