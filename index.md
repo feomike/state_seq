@@ -25,7 +25,7 @@ We begin by first looking at each of the pdfs for a repeatable pattern in the do
 
 When this was complete, I exported the data to [this csv](data/State-Sequester-20130225.txt), read that into a postgres database. My intent was to make a geojson file of this data, so I joined the data to a table containing state centroids as point geometry and a common state name field as our table. I then used [this sql script](data/export_geoJson.sql) to export the data to geojson. I then created [this gitrepo](https://github.com/feomike/state_seq), turned the repo into a gh-pages branch and bengin committing these files to that repo.
 
-I also engaged another colleage ([@qinxiaoming](https://twitter.com/qinxiaoming)) asking him what he could come up with. Completely on his own time he developed the above example in D3. In parallel I developed the above example in mapbox.
+I also engaged another colleague ([@qinxiaoming](https://twitter.com/qinxiaoming)) asking him what he could come up with. Completely on his own time he developed the above example in D3. In parallel I developed the above example in mapbox.
 
 ##Costs
 - Software costs for storing the original data (Google Docs) - $0
