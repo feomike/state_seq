@@ -1,5 +1,7 @@
-title: State Sequester Numbers
+title: State Sequester
+subtitle: By The Numbers
 
 #build config
 server: true
 auto: true
+markdown: rdiscount 
