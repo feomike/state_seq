@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif|Lato:400,700);
+/* Bootstrap Resets */
+html, body {
+	height: 100%
+}
+body {
+	background-color: rgba(0, 0, 0, .05);
+	font-family: "Lato", Calibri, Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, h4 {
+	font-family:"Bree Serif", Georgia;
+	font-weight: normal;
+}
+h1 {
+	font-size:60px;
+}
+h2 {
+	margin-top:40px;
+}
+h3 {
+	margin: 0;
+}
+
+.container-fluid {
+	margin:0 auto;
+	max-width:600px;
+	padding:0;
+}
+
+.btn {
+	background-color:rgba(0,0,0,.1);
+	box-shadow: none;
+	padding: 7px 14px;
+}
+
+a.btn {
+	border:none;
+}
+.btn-primary {
+	background-color: rgba(0,0,0,.8);
+	color: rgba(255,255,255,1);
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color: rgba(255,255,255,1);
+  background-color: rgba(0,0,0,.3);
+}
+
+/* header */
+
+.header {
+	background-color: rgba(255, 255, 255, 1);
+	border-bottom: 1px solid rgba(0, 0, 0, .1);
+	padding: 20px 0;
+}
+.header h1, .header h2 {
+	margin-top:0;
+}
+.footer {
+	background-color: rgba(0, 0, 0, 1);
+	color: rgba(255, 255, 255, 1);
+	font-size: 12px;
+	line-height: 1.2;
+	margin-top: 40px;
+	padding: 20px 0;
+}
+
+@media (max-width: 767px) {
+	body {
+		padding:0;
+	}
+	.container-fluid {
+		padding: 0 10px;
+	}
+}
