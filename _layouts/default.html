@@ -7,6 +7,9 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen"/>
     <link rel="stylesheet" type="text/css" href="css/state_seq.css" media="screen"/>
     <link rel="stylesheet" type="text/css" href="css/pygment_trac.css" media="screen"/>
+
+    <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.5/mapbox.js'></script>
+    <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.5/mapbox.css' rel='stylesheet' />
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
     <![endif]-->
@@ -15,26 +18,31 @@
 
   <body>
 
-    <div class="header">
+   
       <div class="container-fluid">
         <div class="row-fluid">
-          <div class="span12">
-            <hgroup>
-              <h1>{{ site.title }}</h1>
-              <h2>{{ site.subtitle }}</h2>
-            </hgroup>
+          <div class="span3">
+            <div class="header">
+              <hgroup>
+                <h1>{{ site.title }}</h1>
+                <h2>{{ site.subtitle }}</h2>
+              </hgroup>
+            </div>
           </div>
-        </div>
-      </div>
-    </div>
+        
+          <div class="span5" id="content">
+              {{ content }}
+          </div>
 
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="span12">
-            {{ content }}
-        </div>
+          <div class="span4">
+            <div id="state_seq" style="min-height:250px; width:100%;"></div>
+            <script>
+              mapbox.auto('state_seq', 'feomike.map-cjk4bn33', function(map) {
+                map.centerzoom({ lat: 39.53, lon: -95.41 }, 6);
+              });
+            </script>
+          </div>
       </div>
-    </div>
 
     <div class="footer">
       <div class="container-fluid">
@@ -46,7 +54,19 @@
       </div>
     </div>
 
-    <script src="javascripts/main.js"></script>
+    <script src="js/jquery-1.9.1.min.js"></script>
+
+    <script>
+    $(document).ready(function() {
+      if ($(window).width() > 752) {
+        var body_height = $('#content').height() + 40;
+        $('#state_seq').css("height", body_height);
+        $('.header').css("height", body_height);
+      } else {
+
+      }
+    }); 
+    </script>
 
   <body>
 </html>
