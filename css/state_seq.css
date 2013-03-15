@@ -91,7 +91,7 @@ a.btn {
 		padding:0;
 	}
 	.container-fluid {
-		padding: 0 10px;
+		padding: 0;
 	}
 	.header h1 {
 		line-height: 1;
@@ -99,6 +99,10 @@ a.btn {
 	}
 	.header {
 		padding-bottom: 40px;
+	}
+	#content {
+		padding-right: 10px;
+		padding-left: 10px;
 	}
 	#state_seq {
 		margin-bottom: 40px;
