@@ -47,5 +47,8 @@ I also engaged another colleague, [@qinxiaoming](https://twitter.com/qinxiaoming
 - Hosting map tiles (MapBox) - $0
 - Web hosting (GitHub) - $0
 
+####Total
+- **$0 spent thanks to open source software and free web hosting**
+
 ##Conclusion
 I think there is a repeatable process here that people should know about.
