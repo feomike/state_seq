@@ -25,7 +25,7 @@ h3 {
 
 .container-fluid {
 	margin:0 auto;
-	max-width:3000px;
+	max-width:800px;
 	padding:0;
 }
 
@@ -55,15 +55,14 @@ a.btn {
 /* header */
 
 .header {
+	background: #ffffff url('../images/map.jpg') no-repeat right top;
+	background: rgba(255, 255, 255, 1) url('../images/map.jpg') no-repeat right top;
+	border-bottom: 3px solid #dddddd;
 	background-color: #000000;
 	background-color: rgba(0, 0, 0, 1);
-	color: #ffffff;
-	color: rgba(255, 255, 255, 1);
-	padding: 0 20px;
+	padding: 0 0 20px 0;
 }
-.header hgroup {
-	padding-top: 20px;
-}
+
 .header h1, .header h2 {
 	line-height: 1;
 	margin-top:0;
@@ -82,7 +81,8 @@ a.btn {
 	color: rgba(0, 0, 0, 1);
 	font-size: 12px;
 	line-height: 1.2;
-	padding: 20px 20px 10px 20px;
+	margin-top: 40px;
+	padding: 20px 20px 0 20px;
 }
 
 @media (max-width: 767px) {
